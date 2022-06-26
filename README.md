@@ -42,3 +42,11 @@ Here is the example of simplest JPDB API PUT as example:
 - **dbName** as it suggest is the name of your DB
 - **rel** refers to the Relation like row in the SQL database
 - **jsonstr** is the json formatted data 
+
+
+
+![Screenshot (184)](https://user-images.githubusercontent.com/80611268/175801473-0e0b698e-f2c4-4d20-9c9c-90f413eae04b.png)
+
+![Screenshot (183)](https://user-images.githubusercontent.com/80611268/175801492-ba5cdd1b-9d05-4258-89b1-7a0c1bca8f1f.png)
+
+
